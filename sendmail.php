@@ -1,24 +1,14 @@
 <?php
-
-	if(count($_POST) > 0) {
-		
-		$name = $_POST['name'];
-		$email = $_POST['email'];
-		$comments = $_POST['comments'];
-		$header = "Content-Type: text/html\r\nReply-To: $email\r\nFrom: $name <$email>";
-		
-		$body = 
-		@"Email sent from ".$_SERVER['REMOTE_ADDR']." at ".date("d/m/Y H:i",time())."<br />
-		<hr />
-		$comments
-		<hr />
-		Email end";
-		
-		if(mail("sethtv@hotmail.com", "Asunto", $body, $header)) {
-			die("true");	
-		} else {
-			die("There was an error sending the email.");	
-		}
-	}
-	
+	$name = $_POST['name'];
+	$mail = $_POST['mail'];
+	$message = $_POST['comments'];
+	$to = "isotelo@exno.com.mx";
+	// Always set content-type when sending HTML email
+	$headers = "MIME-Version: 1.0" . "\r\n";
+	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+	// More headers
+	$headers .= 'From:<'.$mail. "> \r\n";
+	mail($to,$name,$message,$headers);
+	header("Location: http://exno.com.mx/contacto.html");
+	die();
 ?>
