@@ -10,6 +10,14 @@
 
 
 .icon-bar {
+  
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 10;
+}
+.icon-dis {
   position: fixed;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -17,8 +25,7 @@
   transform: translateY(-50%);
   z-index: 10;
 }
-
-.icon-bar a {
+.icon-dis a {
   display: block;
   text-align: center;
   padding: 16px;
@@ -27,9 +34,10 @@
   font-size: 20px;
 }
 
-.icon-bar a:hover {
+.icon-dis a:hover {
     background-color: #000;
 }
+
 
 .facebook {
   background: #3B5998;
