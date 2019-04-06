@@ -2,7 +2,7 @@
 	$name = $_POST['name'];
 	$mail = $_POST['mail'];
 	$message = $_POST['comments'];
-	$to = "isotelo@exno.com.mx";
+	$to = "construccion@exno.com.mx";
 	// Always set content-type when sending HTML email
 	$headers = "MIME-Version: 1.0" . "\r\n";
 	$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";

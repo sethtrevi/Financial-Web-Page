@@ -39,6 +39,7 @@
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
  
+  
 </head>
 
 <body>
@@ -75,7 +76,7 @@
                   <a href="services.html">Servicios</a>
                 </li> -->
                 <li role="presentation">
-                  <a href="portfolio.php">Portafolio</a>
+                  <a href="portfolio.php">Proyectos</a>
                 </li>
                 <li role="presentation">
                   <a href="contact.html">Contacto</a>
@@ -166,8 +167,7 @@
       <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
         <h2>Misión</h2>
         <p class="p" style="font-size: 17px;">
-            En Exno Contrucción buscamos siempre aportar satisfacción y valor para los negocios de nuestros clientes y para los objetivos de nuestros colaboradores.  La base de nuestro éxito radica en el  enfoque global, práctico y humano con el que contamos; el cual abarca diversas especialidades de la ingeniería civil, lo que nos permite comprometernos de una manera permanente en relaciones de ganar – ganar.
-        </p>
+        En Grupo Exno Construcción buscamos siempre aportar satisfacción y valor para los negocios de nuestros clientes y para los objetivos de nuestros colaboradores.  La base de nuestro éxito radica en el  enfoque global, práctico y humano con el que contamos; el cual abarca diversas especialidades de la ingeniería civil, lo que nos permite comprometernos de una manera permanente en relaciones de ganar – ganar.      </p>
       </div>
     </div>
   </div>
@@ -177,8 +177,7 @@
         <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
             <h2>Visión</h2>
             <p class="p" style="font-size: 17px;">
-                Exno Contrucción se ve como líder en la prestación de servicios de construcción, y mantenimiento de obras civiles comerciales, industriales y habitacionales abarcando en el corto plazo la región del pacifico y posteriormente todo el territorio nacional.
-            </p>
+            Grupo Exno Construcción se ve como líder en la prestación de servicios de construcción, y mantenimiento de obras civiles comerciales, industriales y habitacionales abarcando en el corto plazo la región del pacifico y posteriormente todo el territorio nacional.  </p>
           </div>
       <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
         <img src="images/2.jpg" class="img-responsive" />
@@ -198,8 +197,7 @@
         <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
             <h2>Nuestros Objetivos              </h2>
             <p class="p" style="font-size: 17px;">
-                En Exno Contrucción estamos comprometidos con la satisfacción del cliente y de nuestro personal, promoviendo una cultura de prevención y de mejora continua en nuestros procesos.   
-            </p>
+            En Grupo Exno construcción estamos comprometidos con la satisfacción del cliente y de nuestro personal, promoviendo una cultura de prevención y de mejora continua en nuestros procesos.  </p>
           </div>
       </div>
     </div>

@@ -40,7 +40,7 @@
                 <li role="presentation"><a href="index.html" >Inicio</a></li>
                 <li role="presentation"><a href="about.html">Sobre Nostros</a></li>
                 <li role="presentation"><a href="services.html">Servicios</a></li>
-                <li role="presentation"><a href="portfolio.php" class="active">Portafolio</a></li>
+                <li role="presentation"><a href="portfolio.php" class="active">Proyectos</a></li>
                 <li role="presentation"><a href="contact.html">Contacto</a></li>
               </ul>
             </div>
@@ -54,7 +54,7 @@
     <div class="container">
       <div class="breadcrumb">
         <li><a href="index.html">Inicio</a></li>
-        <li>Portafolio</li>
+        <li>Proyectos</li>
       </div>
     </div>
   </div>
