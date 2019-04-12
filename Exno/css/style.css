@@ -1318,3 +1318,93 @@ a.scrollups:hover{
   color:#243743;
   z-index:9999;
 }
+
+.text{
+  font-size: 25px;
+  color: white;
+  z-index: 9999;
+}
+
+
+.text:after {
+  content: '\A';
+  position: absolute;
+  width: 100%; 
+  height:100%;
+  top:0; 
+  left:0;
+  z-index: -99;
+  background:rgba(0,0,0,0.7);
+  opacity: 1;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+ -moz-transition: all 0.5s;
+ border-radius: 5px;
+}
+
+
+.text1{
+  position: absolute;
+  top: 1000px;
+  right: 400px;
+}
+.text2{
+  position: absolute;
+  top: 1300px;
+  right: 700px;
+}
+.text3{
+  position: absolute;
+  top: 1600px;
+  right: 200px;
+}
+.text4{
+  position: absolute;
+  top: 1900px;
+  right: 400px;
+}
+.text5{
+  position: absolute;
+  top: 2200px;
+  right: 600px;
+}
+.text6{
+  position: absolute;
+  top: 2500px;
+  right: 800px;
+}
+.text7{
+  position: absolute;
+  top: 2800px;
+  right: 200px;
+}
+.text8{
+  position: absolute;
+  top: 3100px;
+  right: 400px;
+}
+.text9{
+  position: absolute;
+  top: 3400px;
+  right: 600px;
+}
+.text10{
+  position: absolute;
+  top: 3600px;
+  right: 800px;
+}
+.text11{
+  position: absolute;
+  top: 3800px;
+  right: 200px;
+}
+.text12{
+  position: absolute;
+  top: 4000px;
+  right: 350px;
+}
+.text13{
+  position: absolute;
+  top: 4300px;
+  right: 500px;
+}

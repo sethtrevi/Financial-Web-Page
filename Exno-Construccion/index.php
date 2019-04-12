@@ -127,8 +127,8 @@
       <div class="item active">
         <img  src="images/slider/bg1.jpg" class="item1" alt="Los Angeles" style=" height: 640px; width:100%">
         <div  class="carousel-caption">
-            <p class="carousel-p">Estamos comprometidos con las satisfacción del </p>
-          <h3 class="carousel-h3" >Cliente</h3>
+            <p class="carousel-p">Estamos comprometidos </p>
+          <h3 class="carousel-h3" > con las satisfacción del Cliente</h3>
         </div>
       </div>
 

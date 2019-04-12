@@ -17,6 +17,32 @@
   <link href="../Exno/css/style.css" rel="stylesheet" />
 </head>
 
+<div class="text text1">RESTAURACIÓN Y CONSERVACIÓN</div>
+
+<div class="text text2">VIVIENDA</div>
+
+<div class="text text3">INSTALACIONES</div>
+
+<div class="text text4">IMAGEN URBANA</div>
+
+<div class="text text5">INFRAESTRUCTURA DEPORTIVA</div>
+
+<div class="text text6">EDIFICACIÓN</div>
+
+<div class="text text7">CARRETERAS Y VÍAS TERRESTRES</div>
+
+<div class="text text8">OBRAS HIDRÁULICAS</div>
+
+<div class="text text9">INFRAESTRUCTURA VIAL</div>
+
+<div class="text text10">PROYECTOS EJECUTIVOS</div>
+
+<div class="text text11">PROYECTOS DE EQUIPAMIENTO </div>
+
+<div class="text text12">PROYECTOS DE IMAGEN</div>
+
+<div class="text text13">PROYECTOS DE INFRAESTRUCTURA </div>
+
 <body>
   <header>
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
